@@ -1,0 +1,21 @@
+html {
+    background-color: #f4f4f4;
+}
+.privacypolicy {
+    background-color: white;
+    padding-right: auto;
+    padding-left: auto;
+    max-width: 1000px;
+}
+
+.privacypolicy h1 {
+    text-align: center;
+}
+
+.privacypolicy table, tr, th, td {
+    border: solid 1px #000000;
+    border-collapse: collapse;
+}
+.privacypolicy ol {
+    text-align: left;
+}
