@@ -1,11 +1,16 @@
 html {
     background-color: #f4f4f4;
 }
+
+
+
 .privacypolicy {
     background-color: white;
     padding-right: auto;
     padding-left: auto;
     max-width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .privacypolicy h1 {
